@@ -7,7 +7,7 @@ Created on Tue Feb  8 23:51:45 2022
 import math
 import matplotlib.pyplot as plt
 # this is the change of lingxiao
-# print('hello world')
+# print('hello world') change by lingxiao
 
 GRAVITY= 0.98
 theta = math.pi/4
